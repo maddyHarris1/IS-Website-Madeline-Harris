@@ -1,0 +1,28 @@
+h2{
+    color: #697bcd;
+    font-weight: 1000px;
+}
+
+.icon{ 
+    color:#697bcd;
+}
+.bold{
+    font-weight: 900;
+}
+
+body{
+    background-color: rgb(255, 250, 232);
+}
+
+.head{
+    color: antiquewhite;
+}
+
+title{
+    color: antiquewhite;
+}
+
+h4 {
+    color:rgb(167, 171, 227);
+    font-weight:bold
+}
